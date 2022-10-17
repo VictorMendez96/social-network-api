@@ -51,3 +51,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Application Links
 
 [GitHub](https://github.com/VictorMendez96/social-network-api)
+
+[Video Walk-through]()
