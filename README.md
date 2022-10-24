@@ -7,6 +7,7 @@
 - [Usage](#Usage)
 - [Application Screenshots](#application-screenshots)
 - [Application Links](#application-links)
+- [Questions](#questions)
 
 
 ## Description
@@ -32,13 +33,23 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Installation
 
+This application is demonstrating the back-end function of a social network site. Start the installation process by downloading the application locally and running the command below in a terminal while in the application folder:
+```
+npm i
+```
 
+This will install all dependencies. You will also need an API client to run CRUD API calls, like Insomnia.
 
 
 ## Usage
 
+Once all dependencies are installed and you have booted up your API client, you will begin the program by running the following command in a terminal in the program folder: 
+```
+npm run start
+``` 
 
- 
+You will open your API Client and start making CRUD requests to the API.
+
 
 ## Application Screenshots
 
@@ -53,3 +64,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 [GitHub](https://github.com/VictorMendez96/social-network-api)
 
 [Video Walk-through]()
+
+## Questions
+
